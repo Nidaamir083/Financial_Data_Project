@@ -15,7 +15,7 @@ setup(
     description='A project that performs data analysis and visualization from Excel files',
     long_description=open('README.md').read() if os.path.exists('README.md') else '',
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/your-repo-name',
+    url='https://github.com/Nidaamir083/Financial_Data_Project.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
